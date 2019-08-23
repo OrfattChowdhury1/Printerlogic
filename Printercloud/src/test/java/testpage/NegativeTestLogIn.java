@@ -13,7 +13,7 @@ public class NegativeTestLogIn extends NegativeLogIn {
         setUrl("https://http.printercloud.com/admin/index.php");
     }
     @Test
-    public void testFilmPage(){
+    public void testNegativeLogIn(){
         negativeLogIn.invalidLogIn();
     }
 

@@ -8,10 +8,9 @@
     <parameter name="os" value="Windows"/>
     <parameter name="os_version" value="10"/>
     <parameter name="browserName" value="chrome"/>
-    <parameter name="browserVersion" value="60.0"/>
-    <parameter name="url" value="https://www.starwars.com/"/>
-    <parameter name="url" value="https://www.starwars.com/films"/>
-    <parameter name="url" value="https://www.starwars.com/video"/>
+    <parameter name="browserVersion" value="76.0"/>
+    <parameter name="url" value="https://http.printercloud.com/admin/index.php"/>
+
 
 
 

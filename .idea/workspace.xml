@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2859cff4-e708-4708-8d49-811decb61468" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2859cff4-e708-4708-8d49-811decb61468" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Base/target/" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Base/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="264">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,7 +41,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Printercloud/src/main/java/logIn/NegativeLogIn3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="270">
               <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,14 +50,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Printercloud/src/test/java/testpage/PositiveTestLogIn.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+              <caret line="12" column="61" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Printercloud/src/test/resources/TestNG.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -91,8 +98,9 @@
         <option value="$PROJECT_DIR$/Printercloud/src/test/java/testpage/NegativeTestLogIn.java" />
         <option value="$PROJECT_DIR$/Printercloud/src/test/java/testpage/NegativeTestLogIn2.java" />
         <option value="$PROJECT_DIR$/Printercloud/src/test/java/testpage/NegativeTestLogIn3.java" />
-        <option value="$PROJECT_DIR$/Base/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Printercloud/src/main/java/logIn/Hoverover.java" />
+        <option value="$PROJECT_DIR$/Base/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Printercloud/src/test/resources/TestNG.xml" />
       </list>
     </option>
   </component>
@@ -232,6 +240,12 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PrinterLogic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrinterLogic" type="462c0819:PsiDirectoryNode" />
+              <item name="Printercloud" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -239,7 +253,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566540954210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566541756911" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -329,12 +343,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NegativeTestLogIn - 2019.08.17 at 22h 41m 27s.xml">
-      <configuration name="NegativeTestLogIn" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestLogIn - 2019.08.17 at 22h 45m 35s.xml">
-      <configuration name="TestLogIn" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestLogIn - 2019.08.17 at 22h 47m 23s.xml">
       <configuration name="TestLogIn" configurationId="TestNG" />
     </history-entry>
@@ -359,9 +367,16 @@
     <history-entry file="PositiveTestLogIn - 2019.08.22 at 23h 40m 22s.xml">
       <configuration name="PositiveTestLogIn" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_orfat_IdeaProjects_PrinterLogic_Printercloud_src_test_resources_TestNG_xml - 2019.08.23 at 00h 15m 56s.xml">
+      <configuration name="C:/Users/orfat/IdeaProjects/PrinterLogic/Printercloud/src/test/resources/TestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_orfat_IdeaProjects_PrinterLogic_Printercloud_src_test_resources_TestNG_xml - 2019.08.23 at 00h 18m 41s.xml">
+      <configuration name="C:/Users/orfat/IdeaProjects/PrinterLogic/Printercloud/src/test/resources/TestNG.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -372,12 +387,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
@@ -415,9 +430,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Printercloud/src/test/resources/TestNG.xml">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Printercloud/src/test/java/testpage/NegativeTestLogIn.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -459,26 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Base/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Printercloud/src/main/java/logIn/NegativeLogIn3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Printercloud/src/main/java/logIn/PositiveLogIn.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -499,13 +491,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Printercloud/src/test/java/testpage/PositiveTestLogIn.java">
+    <entry file="file://$PROJECT_DIR$/Base/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="264">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Printercloud/src/main/java/logIn/NegativeLogIn3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Printercloud/src/test/java/testpage/PositiveTestLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Printercloud/src/test/resources/TestNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
         </state>
       </provider>
     </entry>

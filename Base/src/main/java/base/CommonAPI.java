@@ -20,9 +20,9 @@ public class CommonAPI {
     @BeforeMethod
     public void setup() throws MalformedURLException {
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\orfat\\IdeaProjects\\PrinterLogic\\Base\\driver\\chromedriver.exe");
-        //System.setProperty("webdriver.gecko.driver","C:\\Users\\orfat\\IdeaProjects\\PrinterLogic\\Base\\driver\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver","C:\\Users\\orfat\\IdeaProjects\\PrinterLogic\\Base\\driver\\geckodriver.exe");
         driver = new ChromeDriver();
-        //driver = new FirefoxDriver();
+        driver = new FirefoxDriver();
         driver.manage().deleteAllCookies();
         builder = new Actions(driver);
         wait = new WebDriverWait(driver, 10);

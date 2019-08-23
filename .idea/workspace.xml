@@ -239,7 +239,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566540793384" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566540954210" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -262,7 +262,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.PositiveTestLogIn">
+  <component name="RunManager" selected="TestNG.C:/Users/orfat/IdeaProjects/PrinterLogic/Printercloud/src/test/resources/TestNG.xml">
+    <configuration name="C:/Users/orfat/IdeaProjects/PrinterLogic/Printercloud/src/test/resources/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Printercloud" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Printercloud/src/test/resources/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NegativeTestLogIn" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Printercloud" />
       <extension name="coverage">
@@ -299,6 +309,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/orfat/IdeaProjects/PrinterLogic/Printercloud/src/test/resources/TestNG.xml" />
         <item itemvalue="TestNG.PositiveTestLogIn" />
         <item itemvalue="TestNG.NegativeTestLogIn" />
       </list>
